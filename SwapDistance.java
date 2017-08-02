@@ -43,7 +43,7 @@ public class SwapDistance {
 
 	
 	/**
-	 * Calculate the similarity of two strings by calculating the
+	 * Get the similarity of two strings by calculating the
 	 * minimum number of adjacent character swaps required to make
 	 * the two strings the same.
 	 */
